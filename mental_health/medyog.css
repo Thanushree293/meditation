@@ -1,0 +1,140 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section-padding{
+    padding: 100px 0;
+}
+
+.section-header{
+    margin-bottom: 50px;
+}
+
+.section-header h2{
+    font-weight: 700;
+    font-size:40px;
+}
+
+.section-header h2 span{
+    color: #6cae22;
+}
+.navbar{
+    background: #ffff;
+}
+
+.navbar-nav{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.navbar-light .navbar-brand{
+    color: #262626;
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover{
+    color: #262626;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #262626;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #6cae22;
+}
+
+
+
+.navbar-toggler{
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0.3;
+    background: #fff;
+}
+
+
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+}
+
+.bg-1{
+    background-image: url("yoga1.png");
+}
+.bg-2{
+    background-image: url("med1.png");
+}
+.bg-3{
+    background-image: url("bowl1.png");
+}
+.bg-1,.bg-2,.bg-3{
+    background-size: cover;
+}
+
+
+.carousel-caption{
+    bottom: 220px;
+    z-index:2;
+    text-align: left;
+    left: 8%;
+    color:#262626;
+}
+.carousel-caption h5{
+    font-size: 55px;
+    text-transform: capitalize;
+    margin-top: 25px;
+}
+
+.carousel-caption p{
+    width:45%;
+    font-size: 18px;
+    line-height: 1.9;
+}
+.carousel-caption .btn{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 5px 20px;
+    display: inline-block;
+    background: #6cae22;
+    font-weight: 600;
+}
+
+
+.carousel-indicators{
+    bottom:65px;
+
+}
+.carousel-indicators button{
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

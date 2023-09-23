@@ -1,0 +1,41 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    font: weight 700px; 
+    margin-top: 10px;
+}
+.products{
+    width: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+}
+.products{
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.info{
+    margin-top: 20px;
+    margin: 10px;
+}
+.card{
+    margin: 6px;
+    background-color:transparent;
+}
+
+.pro1{
+    width: auto;
+    padding: 3px;
+}
+.page1{
+    font-size: medium;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+}
